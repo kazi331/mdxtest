@@ -1,0 +1,1 @@
+Decode from Base64 format
